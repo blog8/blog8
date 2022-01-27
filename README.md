@@ -1,4 +1,4 @@
-### Hi there, welcome to Blog Eight.8!
+### Hi there, welcome to Blog Eight.8! <a href = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></a>
 
 I'm Amir Sohil and I see you've found my blog. Somehow.
 
