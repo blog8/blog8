@@ -1,4 +1,6 @@
-### Hi there, I'm Amir Sohil and you've found my blog. Somehow.
+### Hi there, welcome to Blog Eight.8!
+
+I'm Amir Sohil and you've found my blog. Somehow.
 
 <!--
 **blog8/blog8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
