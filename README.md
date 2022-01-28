@@ -2,6 +2,7 @@
 
 I'm Amir Sohil and I see you've found my blog. Somehow. 
 
+I'm currently working on it; it should be online soon, hopefully. 🤞
 <!--
 **blog8/blog8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
