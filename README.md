@@ -1,6 +1,8 @@
 ### Hi there, welcome to Blog Eight.8! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=blog8)
+
 <br>
 I'm Amir Sohil and I see you've found my blog. Somehow. 
 
