@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
+
+[![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
