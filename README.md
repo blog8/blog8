@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:0.5px;border-width:0;color:gray;background-color:gray">
 <div align="center">
 
 [![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
