@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <hr style="height:0.5px;border-width:0;color:gray;">
 <div align="center">
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=blog8)
+![Profile View Counter](https://komarev.com/ghpvc/?username=blog8)<br>
 [![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
 
 </div>
