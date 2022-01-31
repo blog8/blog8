@@ -4,9 +4,6 @@ print('hello world!')
 
 ### Hi there, welcome to Blog Eight.8! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=blog8)
-
 <br>
 I'm Amir Sohil and I see you've found my blog. Somehow. 
 
@@ -29,6 +26,7 @@ Here are some ideas to get you started:
 <hr style="height:0.5px;border-width:0;color:gray;">
 <div align="center">
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=blog8)
 [![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
 
 </div>
